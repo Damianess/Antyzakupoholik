@@ -1,0 +1,1 @@
+Nadawanie limitów wydatków dziennych, miesięcznych, rocznych, na chciany okres. Możliwość sprawdzania historii. Możliwość włączenia zarówno na telefonie, jak i na PC, wykorzystanie MAUI(lub czegoś innego co bardziej się do tego nadaje o ile coś takiego istenieje?)
