@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Antyzakupoholik.Views.ArchiveDetailsPage"
+    Title="Szczegóły archiwum">
+
+    <ScrollView>
+
+        <VerticalStackLayout
+            Padding="20"
+            Spacing="10">
+
+            <Label
+                FontSize="24"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                Text="{Binding MonthName}" />
+
+            <Label
+                FontSize="18"
+                Text="{Binding SpendingLimit,
+                              StringFormat='Limit: {0:F2} zł'}" />
+
+            <Label
+                FontSize="18"
+                Text="{Binding TotalSpent,
+                              StringFormat='Wydano: {0:F2} zł'}" />
+
+            <Label
+                Margin="0,15,0,0"
+                FontAttributes="Bold"
+                Text="Wydatki:" />
+
+            <CollectionView
+                ItemsSource="{Binding Expenses}">
+
+                <CollectionView.ItemTemplate>
+
+                    <DataTemplate>
+
+                        <Frame Margin="0,5">
+
+                            <VerticalStackLayout>
+
+                                <Label
+                                    FontAttributes="Bold"
+                                    Text="{Binding Name}" />
+
+                                <Label
+                                    Text="{Binding Amount,
+                                                  StringFormat='{0:F2} zł'}" />
+
+                                <Label
+                                    FontSize="12"
+                                    Text="{Binding CreatedAt}" />
+
+                            </VerticalStackLayout>
+
+                        </Frame>
+
+                    </DataTemplate>
+
+                </CollectionView.ItemTemplate>
+
+            </CollectionView>
+
+            <Button
+                Margin="0,20,0,0"
+                Text="Przywróć archiwum"
+                Command="{Binding RestoreCommand}" />
+
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>

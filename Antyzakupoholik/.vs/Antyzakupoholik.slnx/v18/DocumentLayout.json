@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\antyzakupoholik\\views\\archivespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\views\\archivespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\antyzakupoholik\\models\\monthlyarchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\models\\monthlyarchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\antyzakupoholik\\views\\archivespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\views\\archivespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\antyzakupoholik\\services\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\services\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\antyzakupoholik\\viewmodels\\expensedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\viewmodels\\expensedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\antyzakupoholik\\viewmodels\\archivedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\viewmodels\\archivedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\antyzakupoholik\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\antyzakupoholik\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArchivesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Views\\ArchivesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\Views\\ArchivesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Views\\ArchivesPage.xaml.cs",
+              "RelativeToolTip": "Antyzakupoholik\\Views\\ArchivesPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:31:04.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonthlyArchive.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Models\\MonthlyArchive.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\Models\\MonthlyArchive.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Models\\MonthlyArchive.cs",
+              "RelativeToolTip": "Antyzakupoholik\\Models\\MonthlyArchive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:53:46.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArchivesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Views\\ArchivesPage.xaml",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\Views\\ArchivesPage.xaml",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Views\\ArchivesPage.xaml",
+              "RelativeToolTip": "Antyzakupoholik\\Views\\ArchivesPage.xaml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-01T23:31:02.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirebaseServices.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Services\\FirebaseServices.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\Services\\FirebaseServices.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Services\\FirebaseServices.cs",
+              "RelativeToolTip": "Antyzakupoholik\\Services\\FirebaseServices.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAYwG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:36:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\ViewModels\\ExpenseDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\ViewModels\\ExpenseDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\ViewModels\\ExpenseDetailsViewModel.cs",
+              "RelativeToolTip": "Antyzakupoholik\\ViewModels\\ExpenseDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:30:23.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArchiveDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\ViewModels\\ArchiveDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\ViewModels\\ArchiveDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\ViewModels\\ArchiveDetailsViewModel.cs",
+              "RelativeToolTip": "Antyzakupoholik\\ViewModels\\ArchiveDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:07:14.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Antyzakupoholik\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwH0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-01T19:50:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Antyzakupoholik\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Antyzakupoholik\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAIwGsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:17:17.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

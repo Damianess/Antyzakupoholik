@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|c:\\users\\lapis\\documents\\github\\antyzakupoholik\\antyzakupoholik\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFC2B0-5FAB-7BD4-E93C-56B7C44DA801}|Antyzakupoholik\\Antyzakupoholik.csproj|solutionrelative:antyzakupoholik\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Details.xaml.cs",
-              "RelativeDocumentMoniker": "Antyzakupoholik\\Details.xaml.cs",
-              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Details.xaml.cs",
-              "RelativeToolTip": "Antyzakupoholik\\Details.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\AppShell.xaml.cs",
+              "RelativeToolTip": "Antyzakupoholik\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T21:34:41.661Z",
+              "WhenOpened": "2026-06-01T19:29:32.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.xaml",
-              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Details.xaml",
-              "RelativeDocumentMoniker": "Antyzakupoholik\\Details.xaml",
-              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Details.xaml",
-              "RelativeToolTip": "Antyzakupoholik\\Details.xaml",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\App.xaml.cs",
+              "RelativeToolTip": "Antyzakupoholik\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-31T21:33:54.498Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:25:42.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeToolTip": "Antyzakupoholik\\Platforms\\Windows\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:19:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Antyzakupoholik\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\lapis\\Documents\\GitHub\\Antyzakupoholik\\Antyzakupoholik\\MauiProgram.cs",
+              "RelativeToolTip": "Antyzakupoholik\\MauiProgram.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:56:03.109Z",
+              "EditorCaption": ""
             }
           ]
         }
